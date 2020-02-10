@@ -3,7 +3,8 @@
 ### Introduction
 
 This is a socket wrapper of <https://github.com/argman/EAST>.  
-Download required files from above repository, and then place it at the root of this project.
+Download required files from above repository, and then place it at the root of this project.  
+Big thanks to [Insung Park][https://github.com/insung3511/] for giving me advices about openCV.
 
 ### Installation
 
