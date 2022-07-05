@@ -46,7 +46,7 @@ tensorflow==2.5.2
 tensorflow-estimator==1.15.1
 termcolor==1.1.0
 traitlets==4.3.3
-ujson==1.35
+ujson==5.4.0
 wcwidth==0.1.8
 Werkzeug==1.0.0
 wrapt==1.11.2
